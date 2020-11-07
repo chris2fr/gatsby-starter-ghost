@@ -1,0 +1,503 @@
+{
+  "basics": {
+    "label": "Innovation et conseil en numérique et en organisation",
+    "phone": "+33768403838",
+    "website": "https://www.mann.fr/",
+    "summary": "\"Faire marcher\" est mon leitmov. J'emploi des expériences et des formations en sciences sociales et informatiques pour l'efficience, le bien-être et l'innovation de tout dans une entreprise. Mes interventions sont à la measure des besoins pour l'accompagnement individuel, d'équipes, de projets et de programme. J'emploi de la réflexion et la technologie dans une approche intégrative pour trouver les appuis pour renforcer ce qui marche et corriger ou arrêter ce qui stagne.",
+    "location": {
+      "address": "7 place de l'Eglise",
+      "postalCode": "92260",
+      "city": "Fontenay-aux-Roses",
+      "countryCode": "FR",
+      "region": "Hauts de Seine"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "chris2fr",
+        "url": "https://www.linkedin.com/in/chris2fr/"
+      },
+      {
+        "network": "Twitter",
+        "username": "chris2fr",
+        "url": "https://twitter.com/chris2fr"
+      }
+    ],
+    "name": "Chris Mann",
+    "email": "chris@mann.fr",
+    "picture": "https://i2.wp.com/www.mann.fr/en/wp-content/uploads/2019/08/chris-mann-jk170571.jpg"
+  },
+  "work": [
+    {
+      "company": "MANN.FR",
+      "position": "Consultant en organisation et en numérique",
+      "website": "https://www.mann.fr/",
+      "startDate": "2011-01",
+      "endDate": "",
+      "summary": "Je me concentre sur les transformations organisationnelles et les projets numériques. \n\nInvestissement dans la mission sociale du lieu, par exemple avec Ordiner.org https://www.ordiner.org pour créer des salles informatiques et animer des stages informatiques dans des foyers d’hébergement sociaux s’adressant à la fracture numérique. \nAnimation de conférences « Agile Digitale Entreprise » en 2016 et « Digital Distances » en 2017. Le projet de planification en charges a été nommé « Burnlog » en 2017 (concept de logiciel et de démarche) https://www.burnlog.org connu auparavant sous le nom « Red Task » (redmine_taskjuggler, logiciel libre) en 2015.  \n\nIl s’agit du plan de la capacité au sens large pour l’individu, pour l’équipe et pour l’organisation. On y trouve de l’édition de logiciels pour la planification en charges, la proposition de démarches méthodologiques, l’animation d’ateliers autour des sujets de l’Agile, etc. Les cadres méthodologiques allant de #NOESTIMATE à Prince 2 en passant par Scrum, Scurm de Scrum, Kanban. Les logiciels pour la planification en charges sont Clarity, Open Workbench, PMW, Taskjuggler avec une implication continue dans les logiciels libres.\nMissions ponctuelles ont été menés pour de multiples clients.",
+      "highlights": [
+        "EURONEXT pour une transition vers une méthode Agile",
+        "AGIRC – ARRCO : mise en place d’un nouveau Scrum master",
+        "Smart-Team : Conseil pour équipe France-Tunisie (organisation et formation)",
+        "AXA France : cellule de la maîtrise de moyens de la DSI (Microsoft Project Server et Planisware)",
+        "Médiapost / Cabestan : audit des pratiques en lien avec Agile en vue d’une amélioration qualité",
+        "Alternative Urbaine : Animation d’atelier Lego 4 Scrum, Conseil d’une équipe études",
+        "Stream Mind pour un projet BNP Paribas",
+        "Premier Taxe Free : Conception de bornes self-service génériques",
+        "SFR Grand Public : Mise en place de middleware mulit-SI en remplacement de mainframes",
+        "YOOZ / ITESOFT : Introduction d’un logiciel Purchase-to-Pay français aux USA"
+      ]
+    },
+    {
+      "company": "Ressourcerie la Mine",
+      "position": "Fabmanager",
+      "website": "",
+      "startDate": "2019-09",
+      "endDate": "2020-06",
+      "summary": "J'ai créé un Fablab."
+    },
+    {
+      "company": "GS Conculting (Smart Team)",
+      "position": "Chef de projets",
+      "website": "https://www.smart-team.fr",
+      "startDate": "2018-10",
+      "endDate": "2019-01",
+      "summary": "J'ai pu accompagner les programmeurs et le gérant de cette société dans la mise en place de meilleurs méthodes et technologies web."
+    },
+    {
+      "company": "Devoteam",
+      "position": "IT Project Manager",
+      "website": "",
+      "startDate": "2018-06",
+      "endDate": "2018-09",
+      "summary": "Architecte technologies intranets pour BNP Paribas\nRemplacement court, de suivi offshore et d’accompagnement de programmation d’interfaces mobiles."
+    },
+    {
+      "company": "Quatrième Oeil",
+      "position": "Photographe et président d'association ",
+      "website": "https://www.quatriemeoeil.com",
+      "startDate": "2015-06",
+      "endDate": "2018-06",
+      "summary": "Création d’un collectif de photographes et le début d’une activité de photographe et directeur de la photographie lors des tournages. Transformation des blocs opératoires d’un hôpital en studios photos aux Grands voisins (14e Paris). "
+    },
+    {
+      "company": "Ventoris Intervenance",
+      "position": "Consultant en Portage Salarial",
+      "website": "",
+      "startDate": "2011-09",
+      "endDate": "2012-03",
+      "summary": "J'ai refait un extranet d'appels d'offres publiques pour Médiamathis."
+    },
+    {
+      "company": "Wonderbox",
+      "position": "Chef de projet fonctionnel",
+      "website": "www.wonderbox.com",
+      "startDate": "2008-03",
+      "endDate": "2008-11",
+      "summary": "J'ai épaulé la DSI et son Directeur pendant un temps de transition.",
+      "highlights": [
+        "Encadrement de la démarche projet de la DSI de 22 personnes dans un contexte start-up tourisme et banque.",
+        "Représentation de la DSI du projet ERP Compiere.",
+        "Encadrement de tâches projet (ESB Mule, Magento, Sugar, etc.). ",
+        "Communication avec les clients internes, puis le suivi et communication autour des incidents de production et des tâches projet complexes.",
+        "Livraison d’un nouveau plateforme Magento en remplacement d’OS Commerce en trois mois.",
+        "Réduction du nombre et de la complexité des bus applicatifs. ",
+        "Arrêt d’un projet ERP défaillant."
+      ]
+    },
+    {
+      "company": "BNP PARIBAS FORTIS / ITPS (PRODUCTION) à travers MEOTEC",
+      "position": "Portfolio et Project Management Officer (PPMO)",
+      "website": "https://www.linkedin.com/company/131954",
+      "startDate": "2010-06",
+      "endDate": "2011-03",
+      "summary": "Dans un contexte de la fusion des services de production (ITPS) BNP Paribas et d’infrastructure et opérations Fortis banque, il s’agit de mettre en place les procédés de Direction de programme pour l’ensemble des projets de consolidation logicielle, et plus particulièrement pour les 57 projets de responsabilités conjointes. Le résultat n’est pas visible de l’extérieur. Dans les faits, à chaque fois un logiciel a été fermé d’un côté au profit du service rendu par le logiciel équivalent de l’autre côté.",
+      "highlights": [
+        "Accompagner la fusion de BNP Paribas et de Fortis pour la production informatique par la facilitation de réunions de pilotage transfrontières, et la le contrôle qualité de 57 projets à responsabilités conjointes.",
+        "Animer la fonction PMO de la fusion des services de production informatique. ",
+        "Etablir les équivalences entre les exigences des deux services de production. "
+      ]
+    },
+    {
+      "company": "Infopol SARL",
+      "location": "",
+      "description": "",
+      "position": "Consultant",
+      "website": "",
+      "startDate": "2007-07",
+      "endDate": "2011-01",
+      "summary": "Il s’agit du plan de la capacité au sens large pour l’individu, pour l’équipe et pour l’organisation. On y trouve de l’édition de logiciels pour la planification en charges, la proposition de démarches méthodologiques, l’animation d’ateliers autour des sujets de l’Agile, etc. Les cadres méthodologiques allant de #NOESTIMATE à Prince 2 en passant par Scrum, Scurm de Scrum, Kanban. Les logiciels pour la planification en charges sont Clarity, Open Workbench, PMW, Taskjuggler avec une implication continue dans les logiciels libres.\nMissions ponctuelles ont été menés pour les clients suivants : EURONEXT pour une transition vers une méthode Agile, AGIRC – ARRCO : mise en place d’un nouveau Scrum master, Smart-Team : Conseil pour équipe France-Tunisie (organisation et formation), AXA France : cellule de la maîtrise de moyens de la DSI (Microsoft Project Server et Planisware), Médiapost / Cabestan : audit des pratiques en lien avec Agile en vue d’une amélioration qualité, Alternative Urbaine : Animation d’atelier Lego 4 Scrum, Conseil d’une équipe études Stream Mind pour un projet BNP Paribas, Premier Taxe Free : Conception de bornes self-service génériques, SFR Grand Public : Mise en place de middleware mulit-SI en remplacement de mainframes, YOOZ / ITESOFT : Introduction d’un logiciel Purchase-to-Pay français aux USA.\n\nDans un contexte de remplacement de mainframes centraux à la gestion de l’intermédiation des contrats d’abord mobiles puis fixes, et ceci après plusieurs années d’efforts sans résultats, l’objectif est de mettre en place l’ajout de nouvelles lignes aux contrats existants sans passer par les mainframes.\nLa mission consiste en la collaboration de plusieurs entités des métiers mobiles de SFR avec un système d’information temps réel et des métiers fixes de 9 Télécom avec un système d’information asynchrone, le sous-traitant Accenture et l’éditeur Progress Software.\nLe résultat est la mise en place d’un bus de services et un moteur de workflow dans six mois et actuellement en production qui gère les nouvelles lignes attachées aux contrats sans utiliser les mainframes.\n",
+      "highlights": []
+    },
+    {
+      "company": "Datacep",
+      "position": "Service Delivery Manager",
+      "website": "",
+      "startDate": "2008-10",
+      "endDate": "2009-01",
+      "summary": "J'ai remplacé temporairement le Service Delivery Manager d'Alstom ITC."
+    },
+    {
+      "company": "SQLI",
+      "position": "Chef de projet TMA",
+      "website": "",
+      "startDate": "2008-01",
+      "endDate": "2008-07",
+      "summary": "J'ai instruit la maintenance de sites webs dynamiques."
+    },
+    {
+      "company": "Daylight Group",
+      "position": "Consultant en organisation - POLE-EMPLOI (ANPE)",
+      "website": "",
+      "startDate": "2006-03",
+      "endDate": "2007-01",
+      "summary": "POLE-EMPLOI (ANPE)\nMise en place de transparence par de l’unité d’appui aux projets DSI lors de la fusion ANPE et Unedic par la participation à la création d’une unité d’appui aux projets (PPMO et PMO) au sein de la DSI. Centralisation de la planification en charges des différentes unités (MOE, Production, MOA, MOEd, Recette, etc.). Apport de conseils aux Managers des équipes. Co-écriture des tableaux de bord avec les chefs de projets opérationnels.\n\nDans un contexte de préparation du Pôle portails externes (notamment le site web) de la DSI de l’ANPE pour la migration avec l’UNEDIC, la directive était de remplacer la négociation par un système de transparence. L’équipe a changé le directeur et certaines personnes clef et a mis en place une nouvelle organisation.\nLa mission consiste en la mise en place et animation d’une planification en charges inspirée par Prince 2 pour l’ensemble des manageurs d’équipes de la DSI touché par le Pôle portails externes et de consolider les présentations de tous les chefs de projets.\nLe résultat est une contribution à la crédibilité accrue de la DSI par un écart-type équivalent pour tout projet, que sa fin soit dans six semaines ou dans six mois\n"
+    },
+    {
+      "company": "Informatique Politique Locale SARL",
+      "position": "Gérant Projet E-Delib",
+      "website": "",
+      "startDate": "2003-12",
+      "endDate": "2007-06",
+      "summary": "Informatique Politique Locale avait édité un logiciel pour les collectivités locales.\n\nCréation d’un logiciel « E-Delib » et de conseiller d’autres éditeurs pour la gestion de la délibération de la collectivité territoriale. Dans la phase de recherche : création d’un projet de recherche et développement à Supélec suivi par deux étudiants MIAGE et deux étudiants DESS, direction de la spécification et la création du prototype, animation d’un groupe « analyse de la valeur » constitué de six experts. Dans la phase de développement : re-engineering d’un prototype Java J2EE en PHP, auteur d’une architecture de cinq modules -- présentation, GED, workflow, sécurité, métier/EDI -- gestion des programmeurs, coordination d’un sous-traitant pour l’interface homme-machine, gestion de la réglementation pour des e-documents portent une force juridique probante. Dans la phase de déploiement : gestion des sites pilotes clients, implémentation de tests automatisés, négociation avec un éditeur pour la diffusion du logiciel libre, tests internes et clients, analyse des performances et préparation des serveurs, gestion globale du projet."
+    },
+    {
+      "company": "Pro Info Service",
+      "position": "Informaticien et administratif",
+      "website": "",
+      "startDate": "2002-06",
+      "endDate": "2003-03",
+      "summary": "J'ai aidé un magasin informatique."
+    },
+    {
+      "company": "Mann Info SARL",
+      "position": "Gérant",
+      "website": "",
+      "startDate": "1999-10",
+      "endDate": "2001-02",
+      "summary": "J'ai créé une SARL de gestion de bases de données, au sein de MBA Multimédia. Nous avions programmé, par exemple, le premier site de commerce électronique de Télécommerce de France Télécom (vinsfrance.com). Deux salariés."
+    },
+    {
+      "company": "MBA Multimédia",
+      "position": "Responsable des bases de données",
+      "website": "",
+      "startDate": "1998-10",
+      "endDate": "2001-02",
+      "summary": "Création d’une agence web à Rennes qui combine sociétés multimédia, bases-de-données et arts graphiques par la création de bases de données web spécifiques, la participation à la fabrication de la chaine de production entre les entreprises multimédia, arts graphiques, base de données, la gestion d’un client du secteur public majeur, l’architecture et spécification de bases de données pour sites e-commerce, l’accompagnement d’une équipe Oracle forms en opensource. Suite à un partenariat avec France Télécom, nous avons réalisé le premier site télécommerce en 1999. Nous avons grandi de 2 à 10, suivi par la fusion du GIE en SARL et avons défendu d’un brevet de modem de rappel.\nJ'ai contribué à la création d'une agence web durable, en croissance depuis 1 à 10 salariés pendant mon temps."
+    },
+    {
+      "company": "Créatic Consultants",
+      "position": "Formateur ",
+      "website": "",
+      "startDate": "1998-01",
+      "endDate": "1998-09",
+      "summary": "J'ai programmé un prototype d'apprentissage en ligne dénommé 'Webtalky'. "
+    },
+    {
+      "company": "Skudder Investments",
+      "position": "Stagiaire",
+      "website": "",
+      "startDate": "1996-06",
+      "endDate": "1996-12",
+      "summary": "Etude de marché avec économétrie sur la demande des compagnies d’assurances pour une SICAV.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Célibration de mariage",
+      "position": "Célibrant réligigeux",
+      "website": "https://youtu.be/TIzgGVJycVY?t=353",
+      "startDate": "2018-05",
+      "endDate": "2018-08",
+      "summary": "J'ai céléibré un mariage réligieux entre personnes de confession muslimanne aprèsun mariage civil avec envrion 60 personnes présentes grace à la formation des Unitariens Universalistes et au soutien des Quakers. Le mariage consisté en l'organisation de la cérimonie et le régistre après environ quatre ou cing entretiens individuels avec les futurs époux. Autant que la cérimonie était réligieuse, les époux avaient été déjà mariées par un Imam plus d'une année auparavant. Particularité de cette cérimonie, chaque participant était témoin."
+    },
+    {
+      "organization": "Réfus de combat de boxe avec Mohammad Ali",
+      "position": "Enfant",
+      "website": "",
+      "startDate": "1983-03",
+      "endDate": "1983-03",
+      "summary": "Dans un magasin de magie, Mohammad Ali m'a défié à un match de boxe. J'ai dû réfusé. Sans aucunement me sentir menacé, car cette homme était charmant, je ne le connaissait pas. C'est peut-être mon début de la non-violence.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "organization": "Unitarian Universalist Fellowship of Paris",
+      "position": "Créateur et co-animateur de groupe restreint de ministère",
+      "website": "https://www.smallgroupministry.net",
+      "startDate": "2011-12",
+      "endDate": "2015-11",
+      "summary": "J'ai été formé dans le soutien d'un groupe qui allait de trois à dix personnes de mamnière mensuelle pour traiter ensemble des sujets laiques."
+    },
+    {
+      "organization": "Aurore",
+      "position": "Activités d'inclusion digitale",
+      "website": "https://www.mann.fr/fr/?page_id=31",
+      "startDate": "2015-06",
+      "endDate": "2019-06",
+      "summary": "J'ai mis en place des ateliers d'inclusion digitale et ai équippé plusieurs salles informatiques dans des foyers d'hébergement et salles polyvalentes pour personnes margilnalisées."
+    },
+    {
+      "organization": "Eglise américaine de Paris, Comité pour réfugés",
+      "position": "Responsable des activités numériques",
+      "website": "",
+      "startDate": "2018-06",
+      "endDate": "2020-06",
+      "summary": "J'ai été sollicité pour aider une activité d'ateliers pour réfugiés et cela a eu lieu. J'ai été sollicité pour une activité de Computer Drive and Lab, puis elle a été approuvée initialement, avant le COVID-19."
+    },
+    {
+      "organization": "BUG Rennes",
+      "position": "Introduction de programmations en bases de données",
+      "website": "https://www.asso-bug.org/",
+      "startDate": "1996-01",
+      "endDate": "1997-01",
+      "summary": "J'ai pu introduire la notion de la programmation en bases de données pour cette association loi 1901 d'instertion par le numérique à Rennes."
+    }
+  ],
+  "education": [
+    {
+      "institution": "École Supérieure d'Électricité",
+      "area": "Réseaux informatiques et télécommunications",
+      "studyType": "Mastère Spécialisée",
+      "startDate": "2001-09",
+      "endDate": "2002-09",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Univeristé de Rennes I",
+      "area": "Ecoonomics",
+      "studyType": "Maîtrise ",
+      "startDate": "1996-09",
+      "endDate": "1997-06",
+      "gpa": ""
+    },
+    {
+      "institution": "Oberlin College",
+      "area": "Economics",
+      "studyType": "BA",
+      "startDate": "1992-09",
+      "endDate": "1996-06",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Sciences Po Strasbourg",
+      "area": "Etudes Politiques (Political Science)",
+      "studyType": "Certificat",
+      "startDate": "1994-09",
+      "endDate": "1995-06",
+      "gpa": "AB",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Introduction de getyooz.com sur le marché USA",
+      "date": "2012-01",
+      "awarder": "ITSOFT",
+      "summary": "Après deux ans d'essais, j'ai pu amener ce produit cloud pour le 'Purchase-to-Pay' dans le cadre reglementaire et usuel des USA en trois mois."
+    },
+    {
+      "title": "Remplacement d'OS Commerce par Magento en trois mois",
+      "date": "2010-01",
+      "awarder": "Wonderbox et Varian",
+      "summary": "Avec l'utilisation de la planification en charges, l'inclusion de l'éditeur de Magento, Varian, j'ai pu aider mon organisation à remplacer OS Commerce par Magento en trois mois, lorsque cela a pris Smartbox trois ans pour faire la même chose."
+    },
+    {
+      "title": "Estimation gaussienne de dates de MEP de pole-emploi.fr",
+      "date": "2007-01",
+      "awarder": "Daylight Group ANP Pole Emploi",
+      "summary": "J'ai pu estimer les dates de mise en production de anpe.fr (puis pole-emploi.fr) par un système d'estimation empirique itérative de planification en charges. Les déviations standardes sont constantes que la mise en production soit dans 6 semaines ou 6 mois."
+    },
+    {
+      "title": "Création d'un méta-moteur de formualires de marchés publics",
+      "date": "2006-10",
+      "awarder": "FORSUP - Achat Public.com",
+      "summary": "J'ai pu mettre en place en dirigeant une équipe des scripts en python pour générer des formulaires en HTML PHP, des contrôles croisées et de la documentation pour les formulaires de marchés publics de la BOAMP et de la JOUE comprennant plus de 50.000 informations distinctes sur 22 formulaires dont certaines avaient 14 écrans."
+    },
+    {
+      "title": "E-Delib - la gestion des délibérations numériques",
+      "date": "2006-06",
+      "awarder": "Informatique Polique Locale , AtReal, Adullact, Plone Gov",
+      "summary": "Le projet ayant pour origine la Mairie de Lorient s'est retrouvé sur plusieurs continents en plusieurs formes."
+    },
+    {
+      "title": "Reconciliation de harcèlement moral",
+      "date": "2016-06",
+      "awarder": "Fintrax de Premier Tax Free et les Prud'Hommes de Paris",
+      "summary": "Après plusieurs années d'une politique de harcèlement sexuel, que je pense avoir témoigné, plusieurs personnes aurient pu rapprocher des pratiques dysfonctionnelles. Grâce à cela, l'organisation a été refondue et est plus saine aujourd'hui dans le département informatique, dans la direction France et dans le direction monde."
+    },
+    {
+      "title": "Coaching pour l'aggrégation en anglais",
+      "date": "2005-03",
+      "awarder": "Deux amis agréégés",
+      "summary": "J'ai pu préparer deux personnes pour le passage des orgaux de l'aggrégation en anglais. J'ai pu aussi aider une directrice de très grande association en anglais au Japon. J'emploie des critiques constructives dans cette démarche."
+    },
+    {
+      "title": "Coaching des chefs de projets",
+      "date": "2017-01",
+      "awarder": "Chefs de projets",
+      "summary": "J'ai pu aider des chefs de projet réussir la certification PMI et à utiliser des techniques PMBOK pour leurs propres réussites."
+    },
+    {
+      "title": "Remplacement d'un processus Mainframe par microservice",
+      "date": "2010-01",
+      "awarder": "MANN.Fr - Sapiens - SFR Grand Public - Progress Software - Accenture",
+      "summary": "J'ai pu aider le remplacement du processus d'ajout de lignes aditionnelles sur les contrats existants en six mois lorsque une grande équipe de Cap Gemeni essayait de faire un remplacement généralisé pendant cinq ans. La réussite est grâce à un bon leadership et l'inclusion de l'éditeur Progress Software."
+    },
+    {
+      "title": "Introduction de Zend sur le marché français",
+      "date": "2006-03",
+      "awarder": "Zend International, Zend France, Mann.fr",
+      "summary": "Zend est l'éditeur du language PHP. J'ai pu aider la création d'une société durable française de cinq personnes  dans la prestation de service pour l'éditeur."
+    }
+  ],
+  "publications": [
+    {
+      "company": "",
+      "location": "",
+      "description": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native or bilingual"
+    },
+    {
+      "language": "fr",
+      "fluency": "Native or bilingual"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Bilingue anglais et français avec des bonnes notions d’espagnol. ",
+      "keywords": []
+    },
+    {
+      "name": "Engagement social par une activité indépendante « Ordiner.org » (comme « jardiner » mais avec ordinateurs) pour la mise en place de salles et ateliers informatiques pour les sans-ordinateur-fixe (SOF)",
+      "keywords": []
+    },
+    {
+      "name": "J’utilise un clavier Dvorak pour pouvoir changer de langue sans changer de disposition des touches et dactylographier à l’aveugle.",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Je conduis convenablement avec permis de conduire depuis les USA et la France.",
+      "keywords": []
+    },
+    {
+      "name": "J’ai été un photographe semi-professionnel, co-fondateur de QuatriemeOeil.com. ",
+      "keywords": []
+    },
+    {
+      "name": "J’ai été auteur de plusieurs logiciels libres sur GitHub et SourceForge. : Redmine_Taskjuggler, XSPyDer, E-Delib, etc. et suis membre de communautés Agile et m’intéresse à Beyond Budgeting. ",
+      "keywords": []
+    },
+    {
+      "name": "Je suis un geek de la planification en charges, visible sur BurnLog.com.",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Synchrone Solutions - Bureau Veritas",
+      "description": "J'ai essayé d'aider le remplacement d'une équipe américaine par une équipe au Malasie pour la gestion de sites webs.",
+      "startDate": "2009-09",
+      "endDate": "2010-01",
+      "url": "",
+      "entity": "",
+      "type": "",
+      "highlights": [
+        ""
+      ],
+      "keywords": [
+        ""
+      ],
+      "roles": [
+        ""
+      ]
+    },
+    {
+      "name": "Transformation Agile Cabestan, Mediaposte, La Poste",
+      "description": "Il s'agissait d'accompagner l'équipe de développement de Cabestan racheté par Mediaposte dans leur maintenance et développement d'un dispositif d'e-mailing. ",
+      "startDate": "2014-03",
+      "endDate": "2014-06",
+      "url": "",
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "Refonte DSI Thomas Cook",
+      "description": "J'ai été invité pour accompagner la DSI Thomas Cook pour sa qualité d'innovation directement auprès du DSI de transition.",
+      "startDate": "2015-02",
+      "endDate": "2015-04",
+      "url": "",
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "SEDIF, Easy Team, Mann.fr",
+      "description": "J'ai été sollicité pour accompagné une équipe forfait en BI Easy Team pour le mandataire de la gestion des eaux en Ile de France. L'enjeu était d'avoir accès aisément aux bons indicateurs des maîtres d'oeuvres. ",
+      "startDate": "2010-06",
+      "endDate": "2010-08",
+      "url": "",
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "Maximiles, Thanis, Mann.fr",
+      "description": "Je devais remplacer un PMO pour les équipes de déeloppement Maximiles.",
+      "startDate": "2010-05",
+      "endDate": "2010-07",
+      "url": "",
+      "entity": "",
+      "type": ""
+    },
+    {
+      "name": "Forsup",
+      "description": "J'ai refait le moteur de dématérialisation de marchés publics. ",
+      "startDate": "2006-01",
+      "endDate": "2006-06",
+      "url": "",
+      "entity": "",
+      "type": ""
+    }
+  ],
+  "meta": {
+    "canonical": "https://github.com/chris2fr/cv/edit/main/priv/fr/cv_chris_mann_fr.json",
+    "version": "priv/fr/cv_chris_mann_fr",
+    "lastModified": "2020-11-01T14:36Z"
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "accent_color": null,
+    "canonical_url": null,
+    "codeinjection_foot": null,
+    "codeinjection_head": null,
+    "count": null,
+    "data": {
+      "description": "This paragraph describes tag 1.",
+      "name": "tag1",
+      "slug": "tag1",
+      "visibility": "public"
+    },
+    "id": "fdd96e60-facd-5d5a-8bfa-270e17c633e2",
+    "feature_image": null,
+    "description": null,
+    "location": {
+      "pathname": "tag1"
+    },
+    "meta_description": null,
+    "name": "tag1,",
+    "meta_title": null,
+    "og_description": null,
+    "og_image": null,
+    "og_title": null,
+    "postCount": null,
+    "slug": "tag1",
+    "twitter_image": null,
+    "twitter_description": null,
+    "twitter_title": null,
+    "url": "http://www.example.com",
+    "visibility": "true"
+  }

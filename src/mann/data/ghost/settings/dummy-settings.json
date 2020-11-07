@@ -1,0 +1,33 @@
+{
+      "active_timezone": "Europe/Paris",
+      "codeinjection_foot": null,
+      "codeinjection_head": null,
+      "codeinjection_styles": "{}",
+      "cover_image": "https://picsum.photos/1200",
+      "default_locale": "EN-us",
+      "description": "Description in Ghost Settings",
+      "facebook": "facebookhandle",
+      "icon": "https://picsum.photos/200",
+      "id": "cc99ee66-e55d-5624-aec9-c465b37dfe8f",
+      "lang": "US-en",
+      "logo": "https://picsum.photos/200",
+      "meta_description": null,
+      "meta_title": null,
+      "navigation": [
+        {
+          "label": "home",
+          "url": "/"
+        }
+      ],
+      "og_description": null,
+      "og_image": null,
+      "og_title": null,
+      "secondary_navigation": null,
+      "timezone": "Paris/Europe",
+      "title": "Ghost Settings Title",
+      "twitter": "null",
+      "twitter_description": null,
+      "twitter_image": null,
+      "twitter_title": null,
+      "url":"https://www.example.com"
+    }

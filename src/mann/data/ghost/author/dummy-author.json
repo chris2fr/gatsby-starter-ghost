@@ -1,0 +1,32 @@
+{
+  "bio": null,
+  "canoncial": "https://www.example.com",
+  "cover_image": null,
+  "data": {
+    "bio": "This is the bio of Author 1",
+    "cover_image": "https://picsum.photos/200",
+    "location": "Somewhere, Someplace",
+    "facebook": "null",
+    "name": "Author 1 Name",
+    "profile_image": "https://picsum.photos/200",
+    "twitter": "null",
+    "website": "https://www.example.com"
+  },
+  "facebook": null,
+  "id": "b76619bc-7f98-58d3-bdfd-8d0cf2e90262",
+  "location": "Somewhere/Someplace",
+  "meta_description": null,
+  "meta_title": null,
+  "name": "Author 1 Name",
+  "postCount": 5,
+  "profile_image": null,
+  "settings": {
+    "description": "Author description goes here.",
+    "title": "Author Title",
+    "twitter": "null"
+  },
+  "slug": "author1",
+  "twitter": "twitterhandle",
+  "url": "http://www.example.com",
+  "website": "http://www.example.com"
+}

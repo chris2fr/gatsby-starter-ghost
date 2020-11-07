@@ -35,9 +35,9 @@ const Index = ({ data, location, pageContext }) => {
 }
 
 Index.propTypes = {
-    data: PropTypes.shape({
-        allGhostPost: PropTypes.object.isRequired,
-    }).isRequired,
+    //data: PropTypes.shape({
+    //    allGhostPost: PropTypes.object.isRequired,
+    //}).isRequired,
     location: PropTypes.shape({
         pathname: PropTypes.string.isRequired,
     }).isRequired,

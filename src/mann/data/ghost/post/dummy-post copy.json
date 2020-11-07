@@ -1,0 +1,115 @@
+{
+  "canonical_url": null,
+  "codeinjection_foot": null,
+  "codeinjection_head": null,
+  "codeinjection_styles": null,
+  "comment_id": null,
+  "created_at_pretty": "1 January, 2020",
+  "created_at": "2020-01-01",
+  "custom_excerpt": null,
+  "custom_template": null,
+  "data": {
+    "feature_image": "https://picsum.photos/200",
+    "html": "<p>This is the HTML content of the post.</p>",
+    "title": "Post Title"
+  },
+  "email_subject": null,
+  "excerpt": "This is an excerpt of the post.",
+  "feature_image": "https://picsum.photos/200",
+  "featured": true,
+  "html": null,
+  "id": "post1",
+  "meta_description": "Meta Description goes Here",
+  "meta_title": "Meta Title",
+  "og_description": "Open-Graph Description goes Here",
+  "og_image": null,
+  "og_title": "Open-Graph Title",
+  "page": null,
+  "plaintext": null,
+  "primaryTag": {
+    "slug": "tag1"
+  },
+  "primary_author": {
+    "bio": null,
+    "canoncial": "https://www.example.com",
+    "count": {
+      "posts": 5
+    },
+    "cover_image": null,
+    "data": {
+      "bio": "This is the bio of Author 1",
+      "cover_image": "https://picsum.photos/200",
+      "facebook": "null",
+      "location": "Somewhere, Someplace",
+      "name": "Author 1 Name",
+      "profile_image": "https://picsum.photos/200",
+      "twitter": "null",
+      "website": "https://www.example.com"
+    },
+    "facebook": null,
+    "id": "b76619bc-7f98-58d3-bdfd-8d0cf2e90262",
+    "location": "Somewhere/Someplace",
+    "meta_description": null,
+    "name": "Author 1 Name",
+    "meta_title": null,
+    "postCount": 5,
+    "profile_image": null,
+    "settings": {
+      "description": "Author description goes here.",
+      "title": "Author Title",
+      "twitter": "null"
+    },
+    "slug": "author1",
+    "twitter": null,
+    "url": "http://www.example.com",
+    "website": null
+  },
+  "primary_tag": null,
+  "published_at": null,
+  "reading_time": null,
+  "send_email_when_published": null,
+  "slug": "post1",
+  "tags": [
+    {
+      "accent_color": null,
+      "canonical_url": null,
+      "codeinjection_foot": null,
+      "codeinjection_head": null,
+      "count": null,
+      "data": {
+        "description": "This paragraph describes tag 1.",
+        "name": "tag1",
+        "slug": "tag1",
+        "visibility": "public"
+      },
+      "description": null,
+      "id": "fdd96e60-facd-5d5a-8bfa-270e17c633e2",
+      "feature_image": null,
+      "location": {
+        "pathname": "tag1"
+      },
+      "meta_description": null,
+      "meta_title": null,
+      "name": "tag1,",
+      "og_description": null,
+      "og_image": null,
+      "og_title": null,
+      "postCount": null,
+      "slug": "tag1",
+      "twitter_description": null,
+      "twitter_image": null,
+      "twitter_title": null,
+      "url": "http://www.example.com",
+      "visibility": "true"
+    }
+  ],
+  "title": "Post Title Here",
+  "twitter_description": null,
+  "twitter_image": null,
+  "twitter_title": null,
+  "updated_at": null,
+  "url": "https://www.example.com",
+  "uuid": "post1",
+  "visibility": "true",
+  "authors": []
+}

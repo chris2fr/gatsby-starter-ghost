@@ -7,10 +7,11 @@ module.exports = {
             'experimentalObjectRestSpread': true
         }
     },
-    plugins: ['ghost', 'react'],
+    // plugins: ['ghost', 'react'],
+    plugins: ['react'],
     extends: [
-        'plugin:ghost/node',
-        'plugin:ghost/ember',
+        //'plugin:ghost/node',
+        //'plugin:ghost/ember',
         'plugin:react/recommended'
     ],
     "settings": {
@@ -23,8 +24,8 @@ module.exports = {
         "propWrapperFunctions": ["forbidExtraProps"]
     },
     "rules": {
-        "ghost/sort-imports-es6-autofix/sort-imports-es6": "off",
-        "ghost/ember/use-ember-get-and-set": "off",
+        //"ghost/sort-imports-es6-autofix/sort-imports-es6": "off",
+        //"ghost/ember/use-ember-get-and-set": "off",
         "no-console": "off",
         "no-inner-declarations": "off",
         "valid-jsdoc": "off",

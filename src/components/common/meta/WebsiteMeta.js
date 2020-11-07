@@ -86,7 +86,7 @@ WebsiteMeta.propTypes = {
         description: PropTypes.string,
         title: PropTypes.string,
         twitter: PropTypes.string,
-        allGhostSettings: PropTypes.object.isRequired,
+        // allGhostSettings: PropTypes.object.isRequired,
     }).isRequired,
     canonical: PropTypes.string.isRequired,
     title: PropTypes.string,

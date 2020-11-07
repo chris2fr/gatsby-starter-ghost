@@ -20,8 +20,10 @@ import '../../styles/app.css'
 */
 const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
     const site = data.allGhostSettings.edges[0].node
+    //const site = data.siteSettings;
     const twitterUrl = site.twitter ? `https://twitter.com/${site.twitter.replace(/^@/, ``)}` : null
     const facebookUrl = site.facebook ? `https://www.facebook.com/${site.facebook.replace(/^\//, ``)}` : null
+
 
     return (
         <>
@@ -103,9 +105,26 @@ DefaultLayout.propTypes = {
     isHome: PropTypes.bool,
     data: PropTypes.shape({
         file: PropTypes.object,
-        allGhostSettings: PropTypes.object.isRequired,
+        // allGhostSettings: PropTypes.object.isRequired,
     }).isRequired,
 }
+
+/*
+const DefaultLayoutSettingsQuery = props => (
+    <StaticQuery
+        query={graphql`
+            query SiteSettings {
+                site {
+                    siteSettings {
+                        ...SiteSettingsFields
+                    }
+                }
+            }
+        `}
+        render={data => <DefaultLayout data={data} {...props} />}
+    />
+)
+*/
 
 const DefaultLayoutSettingsQuery = props => (
     <StaticQuery
@@ -130,5 +149,6 @@ const DefaultLayoutSettingsQuery = props => (
         render={data => <DefaultLayout data={data} {...props} />}
     />
 )
+
 
 export default DefaultLayoutSettingsQuery
